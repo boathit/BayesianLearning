@@ -16,4 +16,7 @@
 
 ## Variational Inference
 
-Studying the properties of KL divergence with a Gaussian Mixture Model.
+[Variational-Inference](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/Variational-Inference.ipynb):
+
+    * Studying the properties of KL divergence with a Gaussian Mixture Model example.
+    * ...
