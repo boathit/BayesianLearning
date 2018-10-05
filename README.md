@@ -23,10 +23,8 @@
 
 ## Variational Inference
 
-[Variational-Inference](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/Variational-Inference.ipynb):
-
-    * Studying the properties of KL divergence with a Gaussian Mixture Model example.
-    * ...
+1. [KL Divergence](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/KLDivergence.ipynb): Studying the properties of KL divergence with a Gaussian Mixture Model example.
+2. [ADVI](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/ADVI.ipynb): Coordinate ascent variational inference.
 
 
 ## Recommended materials
