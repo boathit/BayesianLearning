@@ -27,7 +27,7 @@
 2. [CAVI](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/CAVI.ipynb): Coordinate ascent variational inference.
 
 
-## Recommended materials
+## Recommended readings
 
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
 * [Julia Document](https://docs.julialang.org/en/v1/)
