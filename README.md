@@ -8,11 +8,11 @@
     ```julia
     using Pkg
 
-    Pkg.add("IJulia.jl")
-    Pkg.add("Distributions.jl")
-    Pkg.add("Optim.jl")
-    Pkg.add("PyCall.jl")
-    Pkg.add("PyPlot.jl")
+    Pkg.add("IJulia")
+    Pkg.add("Distributions")
+    Pkg.add("Optim")
+    Pkg.add("PyCall")
+    Pkg.add("PyPlot")
     ```
 
 * Run Jupyter notebook
@@ -24,7 +24,7 @@
 ## Variational Inference
 
 1. [KL Divergence](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/KLDivergence.ipynb): Studying the properties of KL divergence with a Gaussian Mixture Model example.
-2. [CAVI](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/CAVI.ipynb): Coordinate ascent variational inference.
+2. [CAVI](http://nbviewer.jupyter.org/github/boathit/BayesianLearning/blob/master/CAVI.ipynb): A full example of coordinate ascent variational inference for the Gaussian Mixture Model.
 
 
 ## Recommended readings
